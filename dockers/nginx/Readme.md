@@ -1,0 +1,1 @@
+this docker enable use nginx to host static resources in 'html'
